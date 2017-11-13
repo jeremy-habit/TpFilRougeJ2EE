@@ -1,0 +1,11 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>fr.unicaen.magicmonkey</groupId>
+    <artifactId>TpMainJEE</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>librarie</module> <!-- Chemin relatif vers le sous-projet -->
+        <module>service</module> <!-- Chemin relatif vers le sous-projet -->
+    </modules>
+</project>
