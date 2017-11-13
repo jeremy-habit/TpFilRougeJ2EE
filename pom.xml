@@ -6,6 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>librarie</module> <!-- Chemin relatif vers le sous-projet -->
-        <module>service</module> <!-- Chemin relatif vers le sous-projet -->
+        <module>service</module>
+        <module>sqlbdd</module> <!-- Chemin relatif vers le sous-projet -->
     </modules>
 </project>

@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/librarie/librarie.iml" filepath="$PROJECT_DIR$/librarie/librarie.iml" />
       <module fileurl="file://$PROJECT_DIR$/librarie/target/maven-archiver/maven-archiver (1).iml" filepath="$PROJECT_DIR$/librarie/target/maven-archiver/maven-archiver (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/service/target/maven-archiver/maven-archiver (2).iml" filepath="$PROJECT_DIR$/service/target/maven-archiver/maven-archiver (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlbdd/target/maven-archiver/maven-archiver (3).iml" filepath="$PROJECT_DIR$/sqlbdd/target/maven-archiver/maven-archiver (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlbdd/sqlbdd.iml" filepath="$PROJECT_DIR$/sqlbdd/sqlbdd.iml" />
     </modules>
   </component>
 </project>

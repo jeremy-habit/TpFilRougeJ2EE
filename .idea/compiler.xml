@@ -9,14 +9,18 @@
         <module name="librarie" />
         <module name="maven-archiver (1)" />
         <module name="maven-archiver (2)" />
+        <module name="maven-archiver (3)" />
         <module name="service" />
+        <module name="sqlbdd" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="librarie" target="1.8" />
       <module name="maven-archiver (1)" target="1.5" />
       <module name="maven-archiver (2)" target="1.5" />
+      <module name="maven-archiver (3)" target="1.5" />
       <module name="service" target="1.8" />
+      <module name="sqlbdd" target="1.6" />
       <module name="TpMainJEE" target="1.5" />
     </bytecodeTargetLevel>
   </component>

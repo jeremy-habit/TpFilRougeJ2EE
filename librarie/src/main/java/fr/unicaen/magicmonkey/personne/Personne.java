@@ -2,12 +2,22 @@ package fr.unicaen.magicmonkey.personne;
 
 public class Personne {
 
+    private Integer id;
     private String nom;
     private String prenom;
 
-    public Personne(String nom, String prenom) {
+    public Personne(Integer id, String nom, String prenom) {
+        this.id = id;
         this.nom = nom;
         this.prenom = prenom;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
     }
 
     public String getNom() {
